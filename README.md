@@ -1,6 +1,6 @@
 ## Hello 👽
 
-I'm Miska, a software and Systems Engineer from Finland.
+I'm Miska, a software and Systems Engineer.
 
 I research, design and build things about my interests such as CS, cybersecurity, operating systems and system architecture.
 If i get a cool idea i will build it, usually privately.
