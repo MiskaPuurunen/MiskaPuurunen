@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello 👽
 
-<!--
-**MiskaPuurunen/MiskaPuurunen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Miska, a software and Systems Engineer from Finland.
 
-Here are some ideas to get you started:
+I research, design and build things about my interests such as CS, cybersecurity, operating systems and system architecture.
+If i get a cool idea i will build it, usually privately.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects and experience I have gained include low level to scalable applications, data science/analytics, backend development, cybersecurity and networking apps with embedded systems. 
+
+Languages: (English & Finnish)
+- Python, C, Java, Go, Scala, TypeScript, HTML/CSS/JS, SQL
+
+Interests:
+- Software Engineering
+- Operating Systems
+- perating Systems & Computer Architecture
+- Cybersecurity
+- Computer Science
+- Backend Development
+- Data Science
